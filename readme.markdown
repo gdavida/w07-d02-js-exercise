@@ -1,4 +1,5 @@
 # Week 7, Day 2 - JS Practice
+http://gdavida.github.io/w07-d01-js-exercises/index.html
 
 ## Description
 
